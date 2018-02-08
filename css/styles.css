@@ -1,0 +1,52 @@
+body {
+  background-color: #4f1b46;
+}
+
+.jumbotron {
+  text-align: center;
+  border-radius: 0 !important;
+}
+
+.container-size {
+  height:600px;
+  width:100%;
+  border-top:10px solid #ff9966;
+  border-bottom:10px solid #ff9966;
+  overflow: hidden;
+}
+
+.container-size img {
+  max-width:100%;
+  max-height:100%;
+}
+
+.no-padding {
+  padding:0;
+}
+
+#cats-container {
+  border-right:16px solid #ff9966;
+  margin:0;
+}
+
+#dogs-container {
+  border-left:16px solid #ff9966;
+  margin:0;
+}
+
+#battle-container {
+  margin-bottom: 20px;
+}
+
+#btn-cats {
+  float:right;
+}
+
+#btn-dogs-gone {
+  float: right;
+}
+
+.btn {
+  padding: 20px 40px;
+  font-size:20px;
+}
